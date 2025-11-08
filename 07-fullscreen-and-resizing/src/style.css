@@ -1,0 +1,12 @@
+.webgl {
+  position: fixed;
+  top: 0;
+  left: 0;
+  outline: none;
+}
+
+/** prevent scroll while using a macbook trackpad */
+html,
+body {
+  overflow: hidden;
+}
